@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Sep 01 16:31:23 CST 2017
+2.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+1.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+0.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\MyAndroidWork\\PictureDemoTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ANDROID_RESOURCE
